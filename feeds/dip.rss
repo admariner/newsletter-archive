@@ -6,7 +6,136 @@
     <description>A weekly newsletter of useful/curious datasets.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>https://github.com/data-is-plural/newsletter-archive</generator>
-    <lastBuildDate>Wed, 21 May 2025 08:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 08:00:00 -0400</lastBuildDate>
+    <item>
+      <title>Data Is Plural — 2025.07.16 edition</title>
+      <link>http://www.data-is-plural.com/archive/2025-07-16-edition</link>
+      <description>Landfills, car crash datasets, AI legal flubs, British literary prizes, and subway art.</description>
+      <content:encoded><![CDATA[<p><em>Landfills, car crash datasets, AI legal flubs, British literary
+prizes, and subway art.</em></p>
+<p> </p>
+<p><strong>Landfills.</strong> The EPA’s <a
+href="https://www.epa.gov/lmop/about-landfill-methane-outreach-program">Landfill
+Methane Outreach Program</a>, “a voluntary program that works
+cooperatively with industry stakeholders and waste officials to reduce
+or avoid methane emissions,” maintains a <a
+href="https://www.epa.gov/lmop/lmop-landfill-and-project-database">database
+of 2,600+ municipal solid waste (MSW) landfills</a> in the United
+States. <a href="https://www.epa.gov/lmop/landfill-technical-data">One
+table</a> provides each site’s name, location, owners, operators,
+ownership type, year opened, year closed, size, waste capacity, latest
+waste tonnage, methane-related metrics, and more. <a
+href="https://www.epa.gov/lmop/landfill-gas-energy-project-data">Another
+table</a> lists “landfill gas energy projects in various stages, such as
+planned, under-construction, operational and shutdown.” <strong>As seen
+in</strong>: “<a
+href="https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills/">America’s
+Hot Garbage Problem</a>” (Bloomberg). [h/t <a
+href="https://www.linkedin.com/posts/laura-bliss_americas-overheated-landfills-have-been-activity-7345934276191821825-as8J">Laura
+Bliss</a>]</p>
+<p> </p>
+<p><strong>Car crash datasets.</strong> Transportation policy scholars
+<a href="https://vtc.rutgers.edu/people/younes/">Hannah Younes</a> and
+<a href="https://bloustein.rutgers.edu/people/noland/">Robert B.
+Noland</a> have <a
+href="https://www.tandfonline.com/eprint/4VRRJASI2CYVQDFQRPTX/full">compiled</a>
+a <a
+href="https://www.arcgis.com/home/item.html?id=3ef625ffe7ce4ef38be81ee6d80a5385">catalog
+of US states’ car crash data resources</a>. Thirty states and DC publish
+raw data, 14 states provide only a dashboard or map, while six provide
+no public data, according to the authors’ survey. They’ve provided links
+to each of the resources, such as <a
+href="https://www.nj.gov/transportation/refdata/accident/rawdata01-current.shtm">New
+Jersey’s data downloads</a>, <a
+href="https://www.azdhs.gov/preparedness/emergency-medical-services-trauma-system/data-visualization/index.php#dashboards-mvt-related-trauma">Arizona’s
+dashboard</a>, and <a
+href="https://transportal.cee.wisc.edu/partners/community-maps/crash/search/BasicSearch.do">Wisconsin’s
+map</a>. The data sources vary in detail, time span, and ease of access.
+<strong>Previously</strong>: The National Highway Traffic Safety
+Administration’s <a
+href="https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars">Fatality
+Analysis Reporting System</a> (<a
+href="https://www.data-is-plural.com/archive/2016-08-31-edition/">DIP
+2016.08.31</a>). [h/t <a
+href="https://www.linkedin.com/in/michael-allen-60287015b/">Michael
+Allen</a>]</p>
+<p> </p>
+<p><strong>AI legal flubs.</strong> <a
+href="https://www.damiencharlotin.com/">Damien Charlotin</a>’s <a
+href="https://www.damiencharlotin.com/hallucinations/">AI Hallucination
+Cases database</a> “tracks legal decisions in cases where generative AI
+produced hallucinated content – typically fake citations, but also other
+types of arguments.” Charlotin, who <a
+href="https://www.damiencharlotin.com/cv/">teaches</a> a course called
+“Large Language Models and the Future of the Legal Profession”, has
+collected 212 examples so far. The database lists each case’s name,
+jurisdiction, decision date, party responsible, AI tool used, “nature of
+hallucination”, outcome, penalties, and description. [h/t <a
+href="https://simonwillison.net/2025/May/25/ai-hallucination-cases/">Simon
+Willison</a> + <a href="https://x.com/Arithmomaniac">Avi Levin</a>]</p>
+<p> </p>
+<p><strong>British literary prizes.</strong> The <a
+href="https://data.post45.org/posts/british-literary-prizes/">Selected
+British Literary Prizes dataset</a>, created by <a
+href="https://apps.ualberta.ca/directory/person/kb1">Katherine
+Binhammer</a> and colleagues, “contains information on nine major
+literary prizes in the U.K. from 1990 to 2022 and demographic
+information on 682 prize winners and shortlisted authors.” The
+demographic attributes include “gender, sexuality, UK residency,
+ethnicity, geography and details of educational background.” The
+documentation includes a <a
+href="https://data.post45.org/posts/british-literary-prizes/#notes-on-ethnic-identifications">section
+on how the researchers approached the ethnicity categorizations</a>.
+<strong>Previously</strong>: <a
+href="https://data.post45.org/posts/the-index-of-major-literary-prizes-in-the-us/">US
+literary prizewinners</a> (<a
+href="https://www.data-is-plural.com/archive/2022-12-07-edition/">DIP
+2022.12.07</a>), also via the <a href="https://data.post45.org/">Post45
+Data Collective</a>. [h/t <a href="https://melaniewalsh.org/">Melanie
+Walsh</a>]</p>
+<p> </p>
+<p><strong>Subway art.</strong> The Metropolitan Transportation
+Authority’s <a
+href="https://www.mta.info/agency/arts-design/permanent-art">Permanent
+Art Program</a> commissions public artworks for New York City
+Transit, Metro-North Railroad, Long Island Rail Road, and even <a
+href="https://www.mta.info/agency/arts-design/collection/brooklyn-battery-tunnel-clock">one
+of its tunnels</a>. It publishes a <a
+href="https://data.ny.gov/Transportation/MTA-Permanent-Art-Catalog-Beginning-1980/4y8j-9pkd/about_data">dataset
+of the collection’s 380+ pieces</a>, which include <a
+href="https://www.mta.info/agency/arts-design/collection/stationary-figures">mosaics</a>,
+<a
+href="https://new.mta.info/agency/arts-design/collection/q-is-for-queens">stained
+glass windows</a>, <a
+href="https://www.mta.info/agency/arts-design/collection/life-underground">sculptures</a>,
+<a
+href="https://www.mta.info/agency/arts-design/collection/clark-street-passage">passageway
+floors</a>, <a
+href="https://www.mta.info/agency/arts-design/collection/times-square-mural">murals</a>,
+<a
+href="https://www.mta.info/agency/arts-design/collection/il7-square">fences</a>,
+and more. It provides each piece’s location, transit agency, artist,
+artwork name, date constructed, material, description, and online
+catalog link. <strong>As seen in</strong>: <a
+href="https://www.stephanie-dang.com/">Stephanie Dang</a>’s <a
+href="https://www.stephanie-dang.com/work/artofftherails">Art Off the
+Rails</a>, winner of the <a
+href="https://www.mta.info/article/celebrating-2024-mta-open-data-challenge">2024
+MTA Open Data Challenge</a>. [h/t <a
+href="https://www.linkedin.com/posts/matt-yarri_today-the-mta-announced-the-winners-of-its-activity-7265105702774312960-98cQ/">Matt
+Yarri</a>]</p>
+<p> </p>
+<p><em>Dataset suggestions? Criticism? Praise? Send subterranean
+feedback to jsvine@gmail.com, or just reply to this email. // Looking
+for past datasets? <a
+href="https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0">This
+spreadsheet contains them all</a>. // Visit <a
+href="https://www.data-is-plural.com">data-is-plural.com</a> to
+subscribe and to browse past editions.</em></p>
+]]></content:encoded>
+      <guid isPermaLink="false">dip-2025-07-16</guid>
+      <pubDate>Wed, 16 Jul 2025 08:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>Data Is Plural — 2025.05.21 edition</title>
       <link>http://www.data-is-plural.com/archive/2025-05-21-edition</link>
@@ -1036,109 +1165,6 @@ subscribe and to browse past editions.</em></p>
 ]]></content:encoded>
       <guid isPermaLink="false">dip-2024-11-13</guid>
       <pubDate>Wed, 13 Nov 2024 08:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Data Is Plural — 2024.10.23 edition</title>
-      <link>http://www.data-is-plural.com/archive/2024-10-23-edition</link>
-      <description>SBA disaster loans, US buildings, the cost of sustenance, German election results, and synthesizers.</description>
-      <content:encoded><![CDATA[<p><em>SBA disaster loans, US buildings, the cost of sustenance, German
-election results, and synthesizers.</em></p>
-<p> </p>
-<p><strong>SBA disaster loans.</strong> “Following a declared disaster,”
-the US Small Business Administration <a
-href="https://www.sba.gov/funding-programs/disaster-assistance">offers</a>
-“disaster assistance in the form of low-interest, long-term disaster
-loans for damages not covered by insurance or other recoveries to
-businesses of all sizes, private nonprofit organizations, as well as
-homeowners and renters.” The SBA <a
-href="https://data.sba.gov/dataset/disaster-loan-data">publishes
-anonymized data</a> about each such loan in fiscal years 2000 to 2022,
-drawn directly from its <a
-href="https://www.sba.gov/document/report-disaster-credit-management-system-20">Disaster
-Credit Management System</a>. The records provide the relevant disaster
-declaration IDs, property type, ZIP code, city, county, state, verified
-losses (in real estate and in “content”), and approved loan amounts.
-<strong>Previously</strong>: SBA datasets the <a
-href="https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data">Paycheck
-Protection Program</a> (<a
-href="https://www.data-is-plural.com/archive/2020-07-08-edition/">DIP
-2020.07.08</a>) and the administration’s <a
-href="https://data.sba.gov/dataset/7-a-504-foia">7(a) and 504 loan
-programs</a> (<a
-href="https://www.data-is-plural.com/archive/2023-01-11-edition/">DIP
-2023.01.11</a>). [h/t <a
-href="https://www.chicagofed.org/publications/working-papers/2024/2024-16">Benjamin
-L. Collier et al.</a>]</p>
-<p> </p>
-<p><strong>US buildings.</strong> “Leveraging high performance
-computing, remote sensing, geographic data science, machine learning,
-and computer vision,” <a
-href="https://www.nature.com/articles/s41597-024-03219-x">Hsiuhan Lexie
-Yang et al.</a>, researchers at Oak Ridge National Laboratory, have
-“partnered with Federal Emergency Management Agency (FEMA) to build a
-baseline structure inventory covering the US and its territories to
-support disaster preparedness, response, and recovery.” The <a
-href="https://gis-fema.hub.arcgis.com/pages/usa-structures">dataset and
-interactive map</a> trace the outlines of 125 million buildings and, in
-many cases, <a
-href="https://www.nature.com/articles/s41597-024-03219-x/tables/2">contain</a>
-the building’s address, occupancy class, usage type, height, elevation,
-and other attributes. They also provide information about the imagery
-used to identify the structure.</p>
-<p> </p>
-<p><strong>The cost of sustenance.</strong> The UN <a
-href="https://en.wikipedia.org/wiki/World_Food_Programme">World Food
-Programme</a>’s <a
-href="https://www.wfp.org/publications/fill-nutrient-gap">Fill the
-Nutrient Gap</a> initiative conducted a series of analyses in 2015
-through 2021 to “calculate the costs of energy-sufficient and
-nutrient-adequate diets and the percentage of households that were
-unable to afford each diet.” In a recent paper, <a
-href="https://www.sciencedirect.com/science/article/pii/S2211912424000609">Zuzanna
-Turowska et al.</a> describe the analyses’ methodology and share their
-results as a dataset. For each of the 37 countries analyzed, the dataset
-contains one row per geographic unit, timeframe, and type of household
-member; each row provides the cost and unaffordability estimates for
-that category.</p>
-<p> </p>
-<p><strong>German election results.</strong> <a
-href="http://www.german-elections.com/">GERDA</a>, a new project by <a
-href="https://osf.io/preprints/socarxiv/q28ex">Vincent Heddesheimer et
-al.</a>, “provides a comprehensive dataset of local, state, and federal
-election results in Germany.” The results go back to 1953 for federal
-elections, to 1990 for local elections, and to 1996 for state elections.
-The files indicate each geographic unit’s number of eligible voters,
-actual voters, valid votes, invalid votes, and vote shares by party. The
-authors have also created “geographically harmonized datasets that
-account for changes in municipal boundaries and mail-in voting
-districts.”</p>
-<p> </p>
-<p><strong>Synths.</strong> <a
-href="https://linktr.ee/iftah.gabbai">Iftah Gabbai</a> is <a
-href="https://github.com/iftah-og/Synthesizers-1896-2024">building a
-dataset</a> of “hardware synthesizers, samplers, and drum machines”
-produced since 1896, “compiled through a mix of automated and manual
-processes, combined with extensive research.” For each of the 2,300+
-devices identified, the dataset <a
-href="https://github.com/iftah-og/Synthesizers-1896-2024/blob/main/Synths_1896_2024_EDA.ipynb">indicates</a>
-its name, brand, release year, years in production, device type (synth,
-sampler, et cetera), form factor, architecture, synth engine used,
-number of keys, key type, oscillator count, and more. <strong>Learn
-more</strong>: <a
-href="https://www.youtube.com/watch?v=Omj405hkOt0">Gabbai’s introductory
-video</a>. [h/t <a href="https://stefanbohacek.com/">Stefan
-Bohacek</a>]</p>
-<p> </p>
-<p><em>Dataset suggestions? Criticism? Praise? Send oscillating feedback
-to jsvine@gmail.com, or just reply to this email. // Looking for past
-datasets? <a
-href="https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0">This
-spreadsheet contains them all</a>. // Visit <a
-href="https://www.data-is-plural.com">data-is-plural.com</a> to
-subscribe and to browse past editions.</em></p>
-]]></content:encoded>
-      <guid isPermaLink="false">dip-2024-10-23</guid>
-      <pubDate>Wed, 23 Oct 2024 08:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
